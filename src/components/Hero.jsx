@@ -18,7 +18,7 @@ const Hero = () => (
       sm:px-16
       px-6
     `}>
-      <div className="flex flex-row items-center py-[6px] px-4 bg-discount-gradient rounded-[10px] mb-2">
+      <div className="flex flex-row items-center py-[6px] px-4 bg-discount-gradient rounded-[10px] mb-2 uppercase">
         <img
           src={discount}
           alt="discount"
