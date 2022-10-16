@@ -1,9 +1,9 @@
 {
-  "name": "bank_modern_app",
+  "name": "bank_app",
+  "homepage": "http://poznianski.github.io/bank_app",
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://poznianski.github.io/bank_app",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
